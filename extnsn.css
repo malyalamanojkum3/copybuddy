@@ -1,0 +1,29 @@
+body {
+    padding:10px;
+    min-width:400px;
+}
+#input-el {
+    width:100%;
+    margin-bottom: 5px;
+    border-color: black;
+    padding:5px;
+    box-sizing: border-box;
+}
+button {
+    background-color: green;
+    color:white;
+    padding:10px 15px;
+    font-weight: 1000;
+    border:none;
+}
+ul {
+    list-style:none;
+    padding-left: 0;
+    margin-top: 20px;
+}
+li {
+    margin-top:5px;
+}
+li a {
+    color:green;
+}

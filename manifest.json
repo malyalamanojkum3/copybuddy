@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "copybuddy",
+    "action": {
+        "default_popup": "extnsn.html",
+        "default_icon": "copy_buddy_logo.png"
+    },
+    
+    "permissions" : [
+        "tabs"
+    ]
+}
